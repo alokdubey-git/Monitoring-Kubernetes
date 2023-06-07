@@ -1,4 +1,5 @@
 Creating Deployments
+
 Step#1: Analyze YAML manifest:
 
 cat deployment.yml
