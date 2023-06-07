@@ -1,6 +1,6 @@
 Monitoring-Kubernetes-Cluster
 
-This repository holds files and docs for the coursera project, Monitoring Kubernetes Cluster using Kubernetes Dashboard, Prometheus and Grafana.
+This repository holds Monitoring Kubernetes Cluster using Kubernetes Dashboard, Prometheus and Grafana.
 
 Project Structure
 
