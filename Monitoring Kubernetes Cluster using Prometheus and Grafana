@@ -1,1 +1,9 @@
+Task 1: To create a single node kubernetes cluster using kind which is a tool for running local Kubernetes clusters using Docker containers as nodes on Ubuntu OS cloud workspace.
 
+Task 2: To create Kubernetes Deployments by yourself in your Kubernetes cluster.
+
+Task 3: To deploy and have an overview of a Kubernetes Dashboard (Web-UI) along with creating a second deployment using dashboard.
+
+Task 4: To utilize an open-source monitoring solution Prometheus to scrape the key system metrics of our cluster.
+
+Task 5: to use Grafana, an open-source analytics and interactive visualization web application to visualize the scraped metrics on community built custom Grafana dashboards.
